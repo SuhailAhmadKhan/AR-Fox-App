@@ -4,7 +4,7 @@
 ## APK File
 Google Drive Link: https://drive.google.com/file/d/1MS1yBPNdj6sJqhXfmSL48TerGNP_C8n4/view?usp=sharing
 ## Introduction
-Our project is a Augmented Reality Pet App using Niantic Lightship ARDK Library.
+Our project is a Augmented Reality Pet Simulator using Niantic Lightship ARDK Library.
 ## Technologies
 * Unity Engine
 * Niantic Lightship ARDK
@@ -17,4 +17,4 @@ Our project is a Augmented Reality Pet App using Niantic Lightship ARDK Library.
 ## References
 * Official Lightship Documentation : https://lightship.dev/docs/ardk/tutorials.html
 * Models from Unity Asset Store : https://assetstore.unity.com/
-* Unity Scripting Reference : https://github.com/EricBatlle/UnityAndroidSpeechRecognizer
+* Android Speech Recognition API : https://github.com/EricBatlle/UnityAndroidSpeechRecognizer
